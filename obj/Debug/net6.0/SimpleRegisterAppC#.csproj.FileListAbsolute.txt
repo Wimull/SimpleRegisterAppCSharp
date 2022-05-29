@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\SimpleRegisterAppC#.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\SimpleRegisterAppC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\SimpleRegisterAppC#.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\SimpleRegisterAppC#.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\SimpleRegisterAppC#.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\bin\Debug\net6.0\SimpleRegisterAppC#.exe
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\bin\Debug\net6.0\SimpleRegisterAppC#.deps.json
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\bin\Debug\net6.0\SimpleRegisterAppC#.runtimeconfig.json
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\bin\Debug\net6.0\SimpleRegisterAppC#.dll
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\bin\Debug\net6.0\SimpleRegisterAppC#.pdb
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\SimpleRegisterAppC#.dll
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\refint\SimpleRegisterAppC#.dll
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\SimpleRegisterAppC#.pdb
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\SimpleRegisterAppC#.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Projetos\SimpleRegisterAppC#\obj\Debug\net6.0\ref\SimpleRegisterAppC#.dll
